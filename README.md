@@ -28,9 +28,6 @@ A knowledge seeker and dedicated software developer, with a passion for innovati
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M-MuneebHusnain&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 <p>

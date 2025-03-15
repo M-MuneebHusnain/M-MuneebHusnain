@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Muhammad Muneeb Husnain</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BAI%20Engineer%3BData%20Scientist%3BCyber%20Security%20Expert%3BSQA%20Engineer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=313&height=33&lines=Full%20Stack%20Developer%3BAI%20Engineer%3BData%20Scientist%3BCyber%20Security%20Expert%3BSQA%20Engineer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
 A knowledge seeker and dedicated software developer, with a passion for innovation, problem-solving, and continuous learning. My expertise spans Software Development, Web and Mobile Applications, Data Science (DS), Artificial Intelligence (AI), Software Quality Assurance (SQA), DevOps, Cybersecurity, and Machine Learning (ML). My technical skill set includes C#, C++, Python, JavaScript, .NET, ReactNative, Firebase, Azure, TensorFlow, and CI/CD tools like Jenkins among many others. I also hold a Google Cybersecurity Professional Certificate, ensuring my solutions are secure and scalable. Whether it's about building data-driven models or architecting enterprise-level systems, I thrive in collaborative environments. Let’s work together to create impactful solutions for industry and academia, improving the world!
